@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37328.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "legacy.quotes.client", "legacy.quotes.client\legacy.quotes.client.esproj", "{B20E83BC-77BD-8BEB-A69C-DB651528058E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Legacy.Quotes.Server", "Legacy.Quotes.Server\Legacy.Quotes.Server.csproj", "{E9CA1A1D-0BCC-48A4-8C5A-8D050135920A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B20E83BC-77BD-8BEB-A69C-DB651528058E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20E83BC-77BD-8BEB-A69C-DB651528058E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20E83BC-77BD-8BEB-A69C-DB651528058E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B20E83BC-77BD-8BEB-A69C-DB651528058E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20E83BC-77BD-8BEB-A69C-DB651528058E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B20E83BC-77BD-8BEB-A69C-DB651528058E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E9CA1A1D-0BCC-48A4-8C5A-8D050135920A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9CA1A1D-0BCC-48A4-8C5A-8D050135920A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9CA1A1D-0BCC-48A4-8C5A-8D050135920A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9CA1A1D-0BCC-48A4-8C5A-8D050135920A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AFB9D5D-B5B7-4923-8EE5-4A64A44439B7}
+	EndGlobalSection
+EndGlobal
