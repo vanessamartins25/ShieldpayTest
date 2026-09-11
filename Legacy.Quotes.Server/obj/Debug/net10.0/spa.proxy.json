@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:61843",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\vanes\\source\\repos\\Legacy.Quotes\\Legacy.Quotes.Server\\..\\legacy.quotes.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
